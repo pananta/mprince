@@ -54,19 +54,5 @@
 // alert(n+"c ="+fah+"fah");
 //
 // }
-//convertToFah(32);
-function convert(n){
-  var fah=n*9/5+32;
-  var kel=n+273;
-  var output="user Input:"+n;
-  output=output+n+"deg celsius="+fah+"f";
-  output+=n+"deg celsius= "+kel;
-  document.getElementById("content").innerHTML=output;
-}
-convert(34);
-
-function areaOfRectangle(l,b) {
-var  a= (l*b);
-alert(a);
-}
-areaOfRectangle(5,7);
+//convertToFah(32);?
+alert("Hello");
