@@ -1,0 +1,23 @@
+h1#r{
+  font-size:72px;
+  color:red
+}
+h1#y{
+  font-size:50px;
+  color:yellow
+}
+h1#b{
+  font-size:64px;
+  color:blue
+}
+div{
+  color:green
+}
+a{
+  color:red;
+  text-decoration: none;
+}
+img{
+  width:200px;
+
+}
