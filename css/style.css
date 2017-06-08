@@ -19,5 +19,24 @@ a{
 }
 img{
   width:200px;
-
+}
+.online{
+  border: 5px solid red
+}
+.local{
+  border: 5px solid green
+}
+table,tr,td,th{
+  border:2px solid blue;
+  border-collapse: collapse;
+  width:150px;
+  height:70px;
+  color:red;
+}
+#heading{
+  border:5px dotted black;
+}
+#answer{
+  background-color: red;
+  color: yellow;
 }
