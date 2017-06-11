@@ -26,6 +26,9 @@ img{
 .local{
   border: 5px solid green
 }
+table{
+    background-image: url('../images/penguins.jpg');
+}
 table,tr,td,th{
   border:2px solid blue;
   border-collapse: collapse;
@@ -34,7 +37,7 @@ table,tr,td,th{
   color:red;
 }
 #heading{
-  border:5px dotted black;
+  border:5px solid black;
 }
 #answer{
   background-color: red;
