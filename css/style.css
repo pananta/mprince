@@ -43,3 +43,7 @@ table,tr,td,th{
   background-color: red;
   color: yellow;
 }
+ul{
+  list-style-type: lower-latin;
+  text-transform: uppercase;
+}
